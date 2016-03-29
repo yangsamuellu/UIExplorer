@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:5:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:6:3-76
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:6:20-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:7:3-76
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:7:20-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:8:3-75
+MERGED from [com.facebook.react:ReactAndroid:0.12.0-SNAPSHOT] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.react/ReactAndroid/0.12.0-SNAPSHOT/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:8:20-73
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:9:3-63
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:9:20-61
+application
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:11:3-25:17
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.react:ReactAndroid:0.12.0-SNAPSHOT] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.react/ReactAndroid/0.12.0-SNAPSHOT/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:allowBackup
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:12:7-33
+	android:icon
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:13:7-45
+	android:theme
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:15:7-63
+activity#com.facebook.react.uiapp.UIExplorerActivity
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:16:5-23:16
+	android:label
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:17:9-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:21:9-69
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:21:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:24:5-82
+	android:name
+		ADDED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:24:15-79
+uses-sdk
+INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:ReactAndroid:0.12.0-SNAPSHOT] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.react/ReactAndroid/0.12.0-SNAPSHOT/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:2:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:2:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/SamuelMac/Documents/SchProject/JsProject/react-native-master/Examples/UIExplorer/android/app/src/main/AndroidManifest.xml:2:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
